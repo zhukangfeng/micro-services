@@ -23,3 +23,11 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### vscode ###
+.vscode/
+
+### node ###
+/nodejs/node_modules/
+
+.attach_pid*

@@ -2,6 +2,17 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ZookeeperDemo",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "demo.msa.msahello.ZookeeperDemo",
+            "args": "",
+            "projectName": "msa-hello"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HelloApplication",
             "request": "launch",
             "cwd": "${workspaceFolder}",
